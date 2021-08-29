@@ -1,3 +1,3 @@
 # myFoursquare
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/FullSizeRender.gif
+![Alt Text](https://s9.gifyu.com/images/MyForsquare.gif
 )
