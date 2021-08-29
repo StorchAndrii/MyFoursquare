@@ -1,2 +1,2 @@
 # myFoursquare
-<img src="MyForsquare.gif" width="40" height="40" />
+<img src="MyForsquare.gif" width="200" height="100" />
