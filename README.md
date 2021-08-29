@@ -1,2 +1,2 @@
 # myFoursquare
-![Alt Text](MyForsquare.gif width="200" height="400")
+![Alt Text](MyForsquare.gif =250x250)
