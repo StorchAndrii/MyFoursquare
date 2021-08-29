@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  myFoursquare
-//
-//  Created by Ночные Снайперы on 15.05.2021.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

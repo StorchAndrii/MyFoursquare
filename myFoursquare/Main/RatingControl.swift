@@ -1,10 +1,3 @@
-//
-//  RatingControl.swift
-//  myFoursquare
-//
-//  Created by Ночные Снайперы on 21.05.2021.
-//
-
 import UIKit
 
 

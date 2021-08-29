@@ -1,10 +1,3 @@
-//
-//  MapViewController.swift
-//  myFoursquare
-//
-//  Created by Ночные Снайперы on 25.05.2021.
-//
-
 import UIKit
 import MapKit
 import CoreLocation

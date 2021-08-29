@@ -1,10 +1,3 @@
-//
-//  ForsqViewController.swift
-//  myFoursquare
-//
-//  Created by Ночные Снайперы on 02.06.2021.
-//
-
 import UIKit
 import Alamofire
 import SwiftyJSON

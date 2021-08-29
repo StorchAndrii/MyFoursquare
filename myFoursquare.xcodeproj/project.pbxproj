@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		149F70404C13A8CD32923DAC /* Pods_myFoursquare.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83EBA563270D3C3EFEE1E2D1 /* Pods_myFoursquare.framework */; };
 		4308FB722668257D0065CAFD /* ForsqViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4308FB712668257D0065CAFD /* ForsqViewController.swift */; };
-		4352313B2684CA9400D4CE01 /* MapManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4352313A2684CA9400D4CE01 /* MapManager.swift */; };
 		4381EF63265D2232002D53D5 /* Cosmos in Frameworks */ = {isa = PBXBuildFile; productRef = 4381EF62265D2232002D53D5 /* Cosmos */; };
 		43A4F18D264FEC0A001B4482 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A4F18C264FEC0A001B4482 /* AppDelegate.swift */; };
 		43A4F18F264FEC0A001B4482 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A4F18E264FEC0A001B4482 /* SceneDelegate.swift */; };
@@ -29,7 +28,6 @@
 
 /* Begin PBXFileReference section */
 		4308FB712668257D0065CAFD /* ForsqViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForsqViewController.swift; sourceTree = "<group>"; };
-		4352313A2684CA9400D4CE01 /* MapManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapManager.swift; sourceTree = "<group>"; };
 		43A4F189264FEC0A001B4482 /* myFoursquare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myFoursquare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43A4F18C264FEC0A001B4482 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43A4F18E264FEC0A001B4482 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -131,7 +129,6 @@
 			children = (
 				4308FB712668257D0065CAFD /* ForsqViewController.swift */,
 				43DACCD7265D35C700026D2C /* MapViewController.swift */,
-				4352313A2684CA9400D4CE01 /* MapManager.swift */,
 			);
 			path = Map;
 			sourceTree = "<group>";
@@ -281,7 +278,6 @@
 				43A4F1A726514A9B001B4482 /* NewPlaceViewController.swift in Sources */,
 				43A4F18D264FEC0A001B4482 /* AppDelegate.swift in Sources */,
 				43A4F1AE26518026001B4482 /* StorageManager.swift in Sources */,
-				4352313B2684CA9400D4CE01 /* MapManager.swift in Sources */,
 				43DACCD8265D35C700026D2C /* MapViewController.swift in Sources */,
 				43D319A0265795AE0024DA9E /* RatingControl.swift in Sources */,
 				43A4F1A526512824001B4482 /* PlaceModel.swift in Sources */,

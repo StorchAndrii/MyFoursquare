@@ -1,10 +1,3 @@
-//
-//  MainViewController.swift
-//  myFoursquare
-//
-//  Created by Ночные Снайперы on 15.05.2021.
-//
-
 import UIKit
 import RealmSwift
 

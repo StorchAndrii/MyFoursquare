@@ -1,10 +1,3 @@
-//
-//  StorageManager.swift
-//  myFoursquare
-//
-//  Created by Ночные Снайперы on 16.05.2021.
-//
-
 import RealmSwift
 
 let realm = try! Realm()
