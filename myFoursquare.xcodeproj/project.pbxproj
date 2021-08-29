@@ -85,23 +85,55 @@
 		43A4F18B264FEC0A001B4482 /* myFoursquare */ = {
 			isa = PBXGroup;
 			children = (
-				43A4F18C264FEC0A001B4482 /* AppDelegate.swift */,
-				43A4F18E264FEC0A001B4482 /* SceneDelegate.swift */,
-				43A4F1A0264FEC80001B4482 /* MainViewController.swift */,
-				4308FB712668257D0065CAFD /* ForsqViewController.swift */,
-				43A4F1A426512824001B4482 /* PlaceModel.swift */,
-				43A4F1AD26518026001B4482 /* StorageManager.swift */,
-				43A4F1A2265004A0001B4482 /* CustomTableViewCell.swift */,
+				43F105DB26DBE378006F1A7C /* System */,
+				43F105DC26DBE47C006F1A7C /* Main */,
+				43F105DD26DBE48C006F1A7C /* Place */,
+				43F105DE26DBE49A006F1A7C /* Map */,
 				43A4F192264FEC0A001B4482 /* Main.storyboard */,
-				43DACCD7265D35C700026D2C /* MapViewController.swift */,
-				4352313A2684CA9400D4CE01 /* MapManager.swift */,
-				43D3199F265795AE0024DA9E /* RatingControl.swift */,
-				43A4F1A626514A9B001B4482 /* NewPlaceViewController.swift */,
 				43A4F195264FEC0C001B4482 /* Assets.xcassets */,
 				43A4F197264FEC0C001B4482 /* LaunchScreen.storyboard */,
 				43A4F19A264FEC0C001B4482 /* Info.plist */,
 			);
 			path = myFoursquare;
+			sourceTree = "<group>";
+		};
+		43F105DB26DBE378006F1A7C /* System */ = {
+			isa = PBXGroup;
+			children = (
+				43A4F18C264FEC0A001B4482 /* AppDelegate.swift */,
+				43A4F18E264FEC0A001B4482 /* SceneDelegate.swift */,
+			);
+			path = System;
+			sourceTree = "<group>";
+		};
+		43F105DC26DBE47C006F1A7C /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				43A4F1AD26518026001B4482 /* StorageManager.swift */,
+				43A4F1A0264FEC80001B4482 /* MainViewController.swift */,
+				43A4F1A2265004A0001B4482 /* CustomTableViewCell.swift */,
+				43D3199F265795AE0024DA9E /* RatingControl.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		43F105DD26DBE48C006F1A7C /* Place */ = {
+			isa = PBXGroup;
+			children = (
+				43A4F1A626514A9B001B4482 /* NewPlaceViewController.swift */,
+				43A4F1A426512824001B4482 /* PlaceModel.swift */,
+			);
+			path = Place;
+			sourceTree = "<group>";
+		};
+		43F105DE26DBE49A006F1A7C /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				4308FB712668257D0065CAFD /* ForsqViewController.swift */,
+				43DACCD7265D35C700026D2C /* MapViewController.swift */,
+				4352313A2684CA9400D4CE01 /* MapManager.swift */,
+			);
+			path = Map;
 			sourceTree = "<group>";
 		};
 		7AE94EB5E042E0C5FA33F3D4 /* Pods */ = {

@@ -554,6 +554,9 @@
         </scene>
     </scenes>
     <designables>
+        <designable name="IAD-B3-KIL">
+            <size key="intrinsicContentSize" width="90" height="37"/>
+        </designable>
         <designable name="n8q-W1-Q0e">
             <size key="intrinsicContentSize" width="252" height="44"/>
         </designable>
